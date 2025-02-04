@@ -1,6 +1,6 @@
 const { app, BrowserWindow } = require('electron');
 const path = require('path');
-const { exec } = require('child_process'); // Para rodar o comando do React
+const { exec } = require('child_process');
 
 let mainWindow;
 
